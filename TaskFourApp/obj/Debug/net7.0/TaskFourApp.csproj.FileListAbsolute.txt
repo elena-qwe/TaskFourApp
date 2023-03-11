@@ -1,0 +1,15 @@
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/bin/Debug/net7.0/TaskFourApp
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/bin/Debug/net7.0/TaskFourApp.deps.json
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/bin/Debug/net7.0/TaskFourApp.runtimeconfig.json
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/bin/Debug/net7.0/TaskFourApp.dll
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/bin/Debug/net7.0/TaskFourApp.pdb
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.csproj.AssemblyReference.cache
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.AssemblyInfoInputs.cache
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.AssemblyInfo.cs
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.csproj.CoreCompileInputs.cache
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.dll
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/refint/TaskFourApp.dll
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.pdb
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/TaskFourApp.genruntimeconfig.cache
+/home/gr601_maevl/RiderProjects/TaskFourApp/TaskFourApp/obj/Debug/net7.0/ref/TaskFourApp.dll

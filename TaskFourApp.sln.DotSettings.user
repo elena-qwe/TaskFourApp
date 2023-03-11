@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d3168c4_002D3f42_002D42eb_002D9c8d_002D15c4187d9495/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MethodMoreBetweenTwoNumbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodMoreBetweenTwoNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodMinBetweenTwoNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodMeterToCentimeter&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodMeterToCentimeterFail&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodCheckData&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodCheckDataFalse&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodCheckDataFail&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodAuthUser&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodAuthUserFail&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodRegisterUser&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6B82CB9F-A929-44AE-9D1A-2B97752442F7::net7.0::TestProject1.Tests.MethodRegisterUserFail&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
